@@ -1,0 +1,4 @@
+GET www.google.com/search?q=cats HTTP/2.0
+Accept: text/html
+Accept-Language: en-us
+User-Agent: Mozilla/4.0
